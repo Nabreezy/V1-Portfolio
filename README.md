@@ -12,4 +12,4 @@ It is not by any means perfect, but it was a start.
 
 I have since gotten considerably better at developing websites, and you can find my new portfolio website here [V2_Portfolio](https://nabilmadih.com/) .
 
-![demo](resources/img/demo.PNG)
+![demo](resources/img/demo.PNG) 
