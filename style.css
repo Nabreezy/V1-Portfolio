@@ -215,7 +215,7 @@ body.active {
 .pic {
     width:95%;
     height:95%;
-    background-image:url('/resources/img/me.jpg');
+    background-image:url('resources/img/me.jpg');
     background-size:cover;
     border-radius:50%;
     animation:picFix 7s ease infinite;
