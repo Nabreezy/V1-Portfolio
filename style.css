@@ -909,7 +909,7 @@ footer {
 #about {
     background-color: #0a192f;
     padding:75px 15px;
-    border-bottom:1px solid #dcd9d9
+        /* border-bottom:1px solid #dcd9d9 */
 }
 #about h2 {
     margin:0 0 15px 0;
